@@ -101,23 +101,23 @@
             figure
               img(src='@/assets/curso/temas/tema1/10.svg', alt='Texto que describa la imagen')
           
-          .tarjeta.color-acento-botones.p-3(x="35.2%" y="68%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="35.2%" y="72.5%" numero="")
             .h5.mb-2 Control químico
               p Utilización de productos de síntesis química (insecticidas, raticidas) que actúan por ingestión o por contacto. Emplear siempre productos con registro sanitario ICA.
 
-          .tarjeta.color-acento-botones.p-3(x="35.2%" y="30.2%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="35.2%" y="32.2%" numero="")
             .h5.mb-2 Control biológico
               p Empleo de enemigos naturales para control de poblaciones de plagas (depredadores, parasitoides, repelentes naturales).
 
-          .tarjeta.color-acento-botones.p-3(x="42.2%" y="8.4%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="42.2%" y="8.9%" numero="")
             .h5.mb-2 Control etológico
               p Se utilizan los comportamientos de las plagas en su contra. Atrayentes, trampas, cebos tóxicos.
 
-          .tarjeta.color-acento-botones.p-3(x="64.9%" y="30.2%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="64.9%" y="32.1%" numero="")
             .h5.mb-2 Control físico
               p Captura y destrucción de la plaga o alteración de las condiciones de su entorno. Trampas de caída, adhesivos, riego por aspersión.
 
-          .tarjeta.color-acento-botones.p-3(x="64.9%" y="68%" numero="")
+          .tarjeta.color-acento-botones.p-3(x="64.9%" y="72.5%" numero="")
             .h5.mb-2 Control cultural
               p Prácticas para modificar el entorno de la especie plaga. Preparación de suelos, volteo de materia orgánica, control de humedades, control de aguas estancadas.
     .row.justify-content-center 
