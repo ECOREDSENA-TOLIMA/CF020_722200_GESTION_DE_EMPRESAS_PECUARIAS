@@ -74,7 +74,7 @@
       .col-md-4.mb-3
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema4/3.png', alt='Texto que describa la imagen')
-      .col-md-8
+      .col-md-8.mb-5
         .cajon.p-4.mb-3(style="background-color:#FFFAD0")
           p Uno de los elementos primordiales de la Seguridad y Salud en el Trabajo es el de los riesgos, en este caso laborales, ya que todas las actividades humanas sin importar su carácter implican algún tipo de riesgo durante su ejecución. Así las cosas, un riesgo se define como la combinación de la probabilidad de que ocurra una o más exposiciones o eventos peligrosos y la severidad del daño que puede ser causada por éstos (Ministerio de Trabajo, 2016). Teniendo en cuenta el riesgo como un factor que hace parte de la vida, la SST se encarga de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo.
     p.mb-5(data-aos="fade-left") La normatividad vigente en materia de SST identifica 5 clases de riesgo los cuales definen el valor de la cotización que el trabajador debe pagar a la aseguradora de riesgos laborales (ARL). Estas 5 clases de riesgo son las siguientes:
@@ -87,7 +87,6 @@
       .col-md-10
         .tabla-a.color-acento-contenido.mb-5 
           table
-            caption Leyenda de la tabla
             thead.text-white(style="background-color:#1B3F5E")
               tr
                 th Clase de riesgo

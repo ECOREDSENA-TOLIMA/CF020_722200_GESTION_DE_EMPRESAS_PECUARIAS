@@ -130,7 +130,7 @@
         br
         <li>Se deben formular preguntas de fácil comprensión tanto para quien diligencia el formato como para quien lo sistematiza.</li>
 
-    p(data-aos="fade-left") Además de lo anterior es fundamental incluir dentro de los registros los siguientes datos: nombre de la finca, fecha de aprobación del formato, responsable de aprobación del formato, fecha de diligenciamiento, nombre y cargo de quien diligencia la información.
+    p.mt-5(data-aos="fade-left") Además de lo anterior es fundamental incluir dentro de los registros los siguientes datos: nombre de la finca, fecha de aprobación del formato, responsable de aprobación del formato, fecha de diligenciamiento, nombre y cargo de quien diligencia la información.
     
     separador 
     .titulo-segundo.color-acento-contenido
@@ -152,7 +152,7 @@
           img(src='@/assets/curso/temas/tema9/10.svg', alt='La figura indica los diferentes inventarios que pueden llevarse a cabo en torno a la empresas pecuarias.')
 
 
-    .row.justify-content-center.align-items-center.mb-3.mt-5
+    .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-md-4.mb-3
         figure
           img(src='@/assets/curso/temas/tema9/11.png', alt='Texto que describa la imagen')
@@ -254,7 +254,7 @@
           <li>No saltarse alguno de los pasos o las preguntas de la lista de verificación.</li>
           <li>Ante alguna duda en la comprobación de algún criterio solicitar una segunda opinión.</li>
 
-    p.mt-3(data-aos="fade-left") En procesos como el montaje o instalación de equipos las listas de comprobación se convierten en herramientas que salvan vidas y evitan altos costos por daños en los implementos. Algunos de los protocolos al interior de la unidad productiva se basan en listas de comprobación puesto que evitan recurrir a la memoria humana la cual, en ocasiones, no es confiable.
+    p.mt-5(data-aos="fade-left") En procesos como el montaje o instalación de equipos las listas de comprobación se convierten en herramientas que salvan vidas y evitan altos costos por daños en los implementos. Algunos de los protocolos al interior de la unidad productiva se basan en listas de comprobación puesto que evitan recurrir a la memoria humana la cual, en ocasiones, no es confiable.
 
 </template>
 

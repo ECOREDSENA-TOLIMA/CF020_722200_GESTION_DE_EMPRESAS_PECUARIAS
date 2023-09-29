@@ -24,7 +24,7 @@
               h3.mb-1 Normativa Ambiental
               p.text-small Listado de la normativa ambiental en los sistemas productivos pecuarios.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1_normativa_ambiental.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     separador 
