@@ -13,7 +13,7 @@
       .col-md-8
         p(data-aos="fade-left") En una explotación pecuaria el programa de reproducción es un elemento de vital importancia ya que define en buena parte su sostenibilidad financiera. En sistemas productivos de cría o de producción de leche, es muy importante considerar los factores ligados a la reproducción, ya que de ello depende que cada año la población de animales y la producción de leche aumenten y generen los ingresos esperados.
         p(data-aos="fade-left") En términos generales, el programa de reproducción define los procesos, actividades y tareas orientadas hacia la producción de pie de cría teniendo en cuenta las características de desempeño reproductivo de cada especie y los objetivos del sistema productivo, para así determinar la necesidad de recursos y la apropiación de los métodos que resulten más adecuados para sacar el mayor provecho a los animales.
-    p.mb-5(data-aos="fade-left") Para el desarrollo exitoso de un programa de reproducción, en el ejercicio de monitoreo del programa de reproducción es importante tener en cuenta lo siguiente:
+    p.mb-5.mt-4(data-aos="fade-left") Para el desarrollo exitoso de un programa de reproducción, en el ejercicio de monitoreo del programa de reproducción es importante tener en cuenta lo siguiente:
 
     separador 
     .titulo-segundo.color-acento-contenido

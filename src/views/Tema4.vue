@@ -25,13 +25,35 @@
       .col-md-4.mb-3
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema4/2.png', alt='Texto que describa la imagen')
-      .col-md-8
+      .col-md-8.mb-0
         .row.mb-5
           .col-md-12.mb-5.mb-md-0
-            LineaTiempoD.color-secundario
-              p.text-small(numero="1" titulo="Códigos") Código sustantivo del trabajo. 1951. Regulación de las relaciones laborales.
+            TabsA.color-acento-botones.mb-5
+              .tarjeta.color-secundario--borde.p-4(titulo="Códigos")
+                h4 Códigos
+                p Código sustantivo del trabajo. 1951. Regulación de las relaciones laborales.
+              .tarjeta.color-secundario--borde.p-4(titulo="Resoluciones")
+                h4 Resoluciones
+                <li>Resolución 2400 1979 por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.</li> 
+                <li>Resolución 2013 1986 por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.</li> 
+                <li>Resolución 1792 1990 por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.</li> 
+                <li>Resolución 1401 2007 por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.</li> 
+                <li>Resolución 2346 2007 por la cual se regula la práctica de evaluaciones médicas ocupacionales y el manejo y contenido de las historias clínicas ocupacionales.</li> 
+                <li>Resolución 2646 2008 por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.</li> 
+                <li>Resolución 0652 2012 por la cualquier se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se di tan otros disposiciones.</li> 
+                <li>Resolución 1409 2012 por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.</li> 
+                <li>Resolución 0312 2019 por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.</li> 
+
+              .tarjeta.color-secundario--borde.p-4(titulo="Decretos")
+                h4 Decretos
+                p Decreto-Ley 1295 1994 por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
+              .tarjeta.color-secundario--borde.p-4(titulo="Leyes")
+                h4 Leyes
+                p Ley 1010 2006 por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo.
+            //- LineaTiempoD.color-secundario
+            //-   p.text-small(numero="1" titulo="Códigos") Código sustantivo del trabajo. 1951. Regulación de las relaciones laborales.
               
-              p.text-small(numero="2" titulo="Resoluciones") Resolución 2400 1979 por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
+            //-   p.text-small(numero="2" titulo="Resoluciones") Resolución 2400 1979 por la cual se establecen algunas disposiciones sobre vivienda, higiene y seguridad en los establecimientos de trabajo.
               //- p.text-small(numero="2" titulo="Resoluciones") Resolución 2013 1986 por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.
               //- p.text-small(numero="2" titulo="Resoluciones") Resolución 1792 1990 por la cual se adoptan valores límites permisibles para la exposición ocupacional al ruido.
               //- p.text-small(numero="2" titulo="Resoluciones") Resolución 1401 2007 por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.
