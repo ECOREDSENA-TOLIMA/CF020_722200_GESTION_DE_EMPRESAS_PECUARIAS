@@ -63,7 +63,7 @@
             figure
               img(src='@/assets/curso/temas/tema9/5.svg', alt='Texto que describa la imagen')
           .col-md-7.offset-1
-            h4 Parámetros productivos
+            h4 Labores
             <li>Fecha de labores</li>
             <li>Actividades realizadas</li>
             <li>Responsables</li>
