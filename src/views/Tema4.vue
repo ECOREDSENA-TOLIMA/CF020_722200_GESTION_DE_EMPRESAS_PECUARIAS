@@ -283,12 +283,12 @@
     .row.justify-content-center 
       .col.desktop
         figure.mb-3(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema4/22.svg', alt='En la figura, se definen conceptualmente las principales diferencias que hay entre los términos: accidente, incidente y enfermedad laboral.')
+          img(src='@/assets/curso/temas/tema4/22.png', alt='En la figura, se definen conceptualmente las principales diferencias que hay entre los términos: accidente, incidente y enfermedad laboral.')
 
     .row.justify-content-center 
       .col.movil
         figure.mb-3(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema4/23.svg', alt='En la figura, se definen conceptualmente las principales diferencias que hay entre los términos: accidente, incidente y enfermedad laboral.')
+          img(src='@/assets/curso/temas/tema4/23.png', alt='En la figura, se definen conceptualmente las principales diferencias que hay entre los términos: accidente, incidente y enfermedad laboral.')
 
     .row.justify-content-center.mt-3.mb-3 
       p(data-aos="fade-left") En vista de que tanto accidentes como incidentes son sucesos repentinos, no hay forma de predecir su ocurrencia, pero sí es posible tomar las precauciones necesarias para prevenirlos, esto quiere decir, identificar los riesgos y actuar en consecuencia para mitigarlos, teniendo en cuenta el ciclo de mejora continua o ciclo PHVA (Planear – Hacer – Verificar – Actuar).
