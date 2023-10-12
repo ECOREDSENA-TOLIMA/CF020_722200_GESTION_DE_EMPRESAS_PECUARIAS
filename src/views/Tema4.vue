@@ -19,7 +19,7 @@
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_4_1 4.1  Interpretación
-    p.mb-5(data-aos="fade-left") La normativa relacionada con la SST en Colombia es bastante amplia y abarca una gran cantidad de leyes, decretos y resoluciones donde se destaca como principal referente el Código Sustantivo del Trabajo el cual se ha convertido en un documento que regula las relaciones entre empleados y empleadores. La legislación relacionada con la SST en Colombia se puede agrupar de la siguiente manera:
+    p.mb-5(data-aos="fade-left") La normativa relacionada con la SST en Colombia es bastante amplia y abarca una gran cantidad de leyes, decretos y resoluciones donde se destaca como principal referente el Código Sustantivo del Trabajo, el cual se ha convertido en un documento que regula las relaciones entre empleados y empleadores. La legislación relacionada con la SST en Colombia se puede agrupar de la siguiente manera:
 
     .row.justify-content-center.align-items-center
       .col-md-4.mb-3
@@ -40,7 +40,7 @@
                 <li>Resolución 1401 2007 por la cual se reglamenta la investigación de incidentes y accidentes de trabajo.</li> 
                 <li>Resolución 2346 2007 por la cual se regula la práctica de evaluaciones médicas ocupacionales y el manejo y contenido de las historias clínicas ocupacionales.</li> 
                 <li>Resolución 2646 2008 por la cual se establecen disposiciones y se definen responsabilidades para la identificación, evaluación, prevención, intervención y monitoreo permanente de la exposición a factores de riesgo psicosocial en el trabajo y para la determinación del origen de estas.</li> 
-                <li>Resolución 0652 2012 por la cualquier se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se di tan otros disposiciones.</li> 
+                <li>Resolución 0652 2012 por la cualquier se establece la conformación y funcionamiento del Comité de Convivencia Laboral en entidades públicas y empresas privadas y se dictan otros disposiciones.</li> 
                 <li>Resolución 1409 2012 por la cual se establece el reglamento de seguridad para protección contra caídas en trabajo en alturas.</li> 
                 <li>Resolución 0312 2019 por la cual se definen los Estándares Mínimos del Sistema de Gestión de la Seguridad y Salud en el Trabajo SG-SST.</li> 
 
@@ -66,7 +66,7 @@
               p.text-small(numero="3" titulo="Decretos") Decreto-Ley 1295 1994 por el cual se determina la organización y administración del Sistema General de Riesgos Profesionales.
               p.text-small(numero="4" titulo="Leyes") Ley 1010 2006 por medio de la cual se adoptan medidas para prevenir, corregir y sancionar el acoso laboral y otros hostigamientos en el marco de las relaciones de trabajo.
 
-    p.mt-3(data-aos="fade-left") En lo relacionado con la legislación sobre SST es posible identificar elementos importantes como la #[b Resolución 1792 de 1990] que regula lo referente a la exposición al ruido, o la #[b Resolución 2646 de 2008] que se enfoca en el riesgo psicosocial, el cual hasta ese entonces no se registraba dentro de los factores de riesgo. Al analizar en detalle cada una de las normas existentes es posible establecer que estas se han presentado como respuesta a problemáticas expuestas por los trabajadores las cuales a través de ejercicios de participación ciudadana y legislación se han logrado reglamentar para el bienestar de empleadores y empleados.
+    p.mt-3(data-aos="fade-left") En lo relacionado con la legislación sobre SST es posible identificar elementos importantes como la #[b Resolución 1792 de 1990], que regula lo referente a la exposición al ruido, o la #[b Resolución 2646 de 2008], que se enfoca en el riesgo psicosocial, el cual hasta ese entonces no se registraba dentro de los factores de riesgo. Al analizar en detalle cada una de las normas existentes, es posible establecer que estas se han presentado como respuesta a problemáticas expuestas por los trabajadores, las cuales a través de ejercicios de participación ciudadana y legislación se han logrado reglamentar para el bienestar de empleadores y empleados.
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_4_2 4.2 Tipos de riesgo
@@ -77,7 +77,7 @@
       .col-md-8.mb-5
         .cajon.p-4.mb-3(style="background-color:#FFFAD0")
           p Uno de los elementos primordiales de la Seguridad y Salud en el Trabajo es el de los riesgos, en este caso laborales, ya que todas las actividades humanas sin importar su carácter implican algún tipo de riesgo durante su ejecución. Así las cosas, un riesgo se define como la combinación de la probabilidad de que ocurra una o más exposiciones o eventos peligrosos y la severidad del daño que puede ser causada por éstos (Ministerio de Trabajo, 2016). Teniendo en cuenta el riesgo como un factor que hace parte de la vida, la SST se encarga de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo.
-    p.mb-5(data-aos="fade-left") La normatividad vigente en materia de SST identifica 5 clases de riesgo los cuales definen el valor de la cotización que el trabajador debe pagar a la aseguradora de riesgos laborales (ARL). Estas 5 clases de riesgo son las siguientes:
+    p.mb-5(data-aos="fade-left") La normatividad vigente en materia de SST identifica 5 clases de riesgo, los cuales definen el valor de la cotización que el trabajador debe pagar a la aseguradora de riesgos laborales (ARL). Estas 5 clases de riesgo son las siguientes:
 
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Tabla 4
@@ -98,7 +98,7 @@
                 td.text-center 0,522 %
                 td Financieras, trabajos de oficina, administrativos, centros educativos, restaurantes.
               tr
-                td.text-center III
+                td.text-center II
                 td.text-center 1,044 %
                 td Algunos procesos manufactureros como fabricación de tapetes, tejidos, confecciones.
               tr
@@ -122,125 +122,125 @@
     .row.justify-content-center.align-items-center
       .col-md-4.mb-3
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema4/4.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/4.png', alt='Imagen decorativa')
       .col-md-8
         .cajon.p-4.mb-3(style="background-color:#FFFAD0")
           p(data-aos="fade-left") Una parte esencial de la SST es la protección de la salud de los trabajadores frente a los posibles riesgos asociados con su labor, por lo que la identificación de los riesgos y la gestión necesaria para su mitigación se constituye en su esencia.
           p(data-aos="fade-left") Dentro de la gestión de los riesgos se toman medidas de todo tipo, las cuales se enfocan en evitar que ocurran accidentes que puedan afectar a los trabajadores y demás personal presente en las instalaciones. Estas medidas pueden significar la eliminación de un peligro, su sustitución, la implementación de controles de ingeniería, los controles administrativos o la utilización de los EPP (elementos de protección personal).
 
     .row.justify-content-center.mt-5 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/5.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/5.png', alt='Imagen decorativa')
           h5.text-center Casco con barbuquejo
           p Casco de seguridad dieléctrico tipo i y ii clase e, con ajuste de rachet, tafilete en nylon, 4 apoyos, incluye barbuquejo de 4 apoyos, no ventilado especial para trabajo en alturas.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/6.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/6.png', alt='Imagen decorativa')
           h5.text-center Gafas de seguridad 
           p Elaboradas en policarbonato, con filtro UV. Protegen contra impactos moderados, ideales para la operación de maquinaria agrícola y la realización de labores manuales donde exista riesgo de partículas voladoras.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/7.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/7.png', alt='Imagen decorativa')
           h5.text-center Tapabocas desechables termosellado
           p Buenas propiedades mecánicas y repelencia a los líquidos.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/8.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/8.png', alt='Imagen decorativa')
           h5.text-center Tapabocas Kn95
           p Cómodo, plegable y ergonómico, 5 capas de filtración reforzada. Fibra de polipropileno termosellado.
 
     .row.justify-content-center.mt-5
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/9.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/9.png', alt='Imagen decorativa')
           h5.text-center Tapabocas industrial con doble filtro
           p Especial para aplicación de sustancias desinfectantes y plaguicidas. Ajustable con filtros removibles al terminar su vida útil.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/10.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/10.png', alt='Imagen decorativa')
           h5.text-center Overol de seguridad ignífugo
           p Resistencia garantizada contra la llama. Protección contra el calor convectivo y radiante. Cinta reflectante para mayor seguridad.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/11.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/11.png', alt='Imagen decorativa')
           h5.text-center Arnés de seguridad
           p Equipo de protección para prevenir la caída del personal que labora en alturas. Obligatorio para trabajos como poda de árboles, reparaciones locativas y mantenimiento de infraestructura.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/12.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/12.png', alt='Imagen decorativa')
           h5.text-center Traje fitosanitario
-          p Ideal para aplicación de productos desinfectantes y plaguicidas.Material: tejido microporoso.
+          p Ideal para aplicación de productos desinfectantes y plaguicidas. Material: tejido microporoso.
 
     .row.justify-content-center.mt-5      
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/13.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/13.png', alt='Imagen decorativa')
           h5.text-center Delantal industrial en PVC
           p Protección frente a la humedad. Liviano, fácil de llevar.
           
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/14.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/14.png', alt='Imagen decorativa')
           h5.text-center Guantes tipo vaqueta
           p Guante corto reforzado en palma para anticorte. Especial para trabajos en soldadura e industria. Manipulación de herramientas, equipos y cuerdas.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/15.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/15.png', alt='Imagen decorativa')
           h5.text-center Guantes de nitrilo
           p Guantes de material sintético para labores delicadas. Protección frente a agentes externos.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/16.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/16.png', alt='Imagen decorativa')
           h5.text-center Guantes de caucho - látex
           p Protección para la realización de diversas labores de aseo y desinfección de áreas. Manipulación de animales enfermos.
 
     .row.justify-content-center.mt-5
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/17.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/17.png', alt='Imagen decorativa')
           h5.text-center Botas de seguridad punteras
           p Suela en poliuretano, cuello impermeable, puntera de seguridad, dieléctrica.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/18.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/18.png', alt='Imagen decorativa')
           h5.text-center Bota de caucho
           p Especial para proteger del agua y el lodo. Liviana, flexible. Caña alta.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/19.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/19.png', alt='Imagen decorativa')
           h5.text-center Protector auditivo
           p Diadema acolchada. Diseñado para aislar los oídos del usuario de las fuentes de ruido.
 
-      .col-md-3
+      .col-md-6.mb-3
         .cajon.p-4.mb-3(style="background-color:#DBF9BD; width:100%; height:100%")
           figure.mb-3(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema4/20.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema4/20.png', alt='Imagen decorativa')
           h5.text-center Careta para esmerilar
           p Visor en policarbonato con suspensión escualizable de ajuste. Banda anti - sudor.
     
@@ -329,7 +329,7 @@
       h2#t_4_5 4.5 Condiciones inseguras
 
     .cajon-b.color-primario.p-3.mb-5
-      p(data-aos="fade-left").mb-0 En las actividades laborales, indistintamente del sector económico, existen lo que se conoce como condiciones inseguras las cuales se definen como aquellas situaciones que se presentan en el lugar de trabajo y se caracterizan por la presencia de riesgos no controlados que pueden generar accidentes. Igualmente, además de las condiciones inseguras, existen los actos inseguros como los que se encuentran a continuación, los cuales son acciones u omisiones cometidas por las personas; estas posibilitan que se produzcan accidentes y se hacen por: impericia, imprudencia o negligencia. (ARL Positiva, 2018). 
+      p(data-aos="fade-left").mb-0 En las actividades laborales, indistintamente del sector económico, existen lo que se conoce como condiciones inseguras, las cuales se definen como aquellas situaciones que se presentan en el lugar de trabajo y se caracterizan por la presencia de riesgos no controlados que pueden generar accidentes. Igualmente, además de las condiciones inseguras, existen los actos inseguros como los que se encuentran a continuación, los cuales son acciones u omisiones cometidas por las personas; estas posibilitan que se produzcan accidentes y se hacen por: impericia, imprudencia o negligencia. (ARL Positiva, 2018). 
 
     .row.justify-content-center
       .col-10
@@ -348,7 +348,7 @@
               <li>Atmósferas concentradas.</li>
               <li>Falta de equipos de protección colectiva.</li>
               <li>Desorden y suciedad en el entorno de trabajo.</li>
-    p.mt-3(data-aos="fade-left") Es deber del trabajador reportar estas condiciones inseguras al empleador a fin de que se tomen las medidas correspondientes. Igualmente, se deben reportar los actos inseguros ya que la combinación de estos dos elementos puede resultar en situaciones extremadamente peligrosas para el trabajador, sus compañeros y la integridad de la unidad productiva.
+    p.mt-3(data-aos="fade-left") Es deber del trabajador reportar estas condiciones inseguras al empleador a fin de que se tomen las medidas correspondientes. Igualmente, se deben reportar los actos inseguros, ya que la combinación de estos dos elementos puede resultar en situaciones extremadamente peligrosas para el trabajador, sus compañeros y la integridad de la unidad productiva.
 
     separador 
     .titulo-segundo.color-acento-contenido

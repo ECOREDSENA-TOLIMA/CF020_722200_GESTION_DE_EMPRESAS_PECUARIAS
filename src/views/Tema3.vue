@@ -11,8 +11,8 @@
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema3/1.png', alt='Texto que describa la imagen')
       .col-md-8
-        p(data-aos="fade-left") En una explotación pecuaria el programa de reproducción es un elemento de vital importancia ya que define en buena parte su sostenibilidad financiera. En sistemas productivos de cría o de producción de leche, es muy importante considerar los factores ligados a la reproducción, ya que de ello depende que cada año la población de animales y la producción de leche aumenten y generen los ingresos esperados.
-        p(data-aos="fade-left") En términos generales, el programa de reproducción define los procesos, actividades y tareas orientadas hacia la producción de pie de cría teniendo en cuenta las características de desempeño reproductivo de cada especie y los objetivos del sistema productivo, para así determinar la necesidad de recursos y la apropiación de los métodos que resulten más adecuados para sacar el mayor provecho a los animales.
+        p(data-aos="fade-left") En una explotación pecuaria el programa de reproducción es un elemento de vital importancia, ya que define en buena parte su sostenibilidad financiera. En sistemas productivos de cría o de producción de leche, es muy importante considerar los factores ligados a la reproducción, ya que de ello depende que cada año la población de animales y la producción de leche aumenten y generen los ingresos esperados.
+        p(data-aos="fade-left") En términos generales, el programa de reproducción define los procesos, actividades y tareas orientadas hacia la producción de pie de cría, teniendo en cuenta las características de desempeño reproductivo de cada especie y los objetivos del sistema productivo, para así determinar la necesidad de recursos y la apropiación de los métodos que resulten más adecuados para sacar el mayor provecho a los animales.
     p.mb-5.mt-4(data-aos="fade-left") Para el desarrollo exitoso de un programa de reproducción, en el ejercicio de monitoreo del programa de reproducción es importante tener en cuenta lo siguiente:
 
     separador 
@@ -176,7 +176,7 @@
                 img(src='@/assets/curso/temas/tema3/6.svg', alt='Texto que describa la imagen')
             .col-md-10
               h5 Manejo sanitario
-              p Es importante que además del manejo sanitario preventivo que se realiza a todos los animales, se efectúen análisis detallados de la salud de los reproductores. En el caso de los bovinos, por ejemplo, se recomienda hacer a los machos exámenes para detectar la presencia de #[i Campilobacter]  y Tricomona ya que estos patógenos pueden derivar en enfermedades que ocasionalmente provocan abortos y muertes embrionarias.
+              p Es importante que además del manejo sanitario preventivo que se realiza a todos los animales, se efectúen análisis detallados de la salud de los reproductores. En el caso de los bovinos, por ejemplo, se recomienda hacer a los machos exámenes para detectar la presencia de #[i Campilobacter]  y Tricomona, ya que estos patógenos pueden derivar en enfermedades que ocasionalmente provocan abortos y muertes embrionarias.
 
         .tarjeta.p-4.mb-3(style="background-color:#DBF9BD")
           .row.justify-content-center.align-items-center
@@ -194,7 +194,7 @@
                 img(src='@/assets/curso/temas/tema3/8.svg', alt='Texto que describa la imagen')
             .col-md-10
               h5 Madurez sexual
-              p Es importante, dependiendo de la especie, establecer la edad ideal para que el macho o la hembra inicien su etapa reproductiva. No se recomienda emplear animales muy jóvenes o que no tengan un desarrollo fisiológico completo pues esto ocasiona una disminución importante en su vida útil. Tampoco es aconsejable emplear animales longevos pues muchos de ellos a cierta edad ya han perdido parte de su capacidad reproductiva.
+              p Es importante, dependiendo de la especie, establecer la edad ideal para que el macho o la hembra inicien su etapa reproductiva. No se recomienda emplear animales muy jóvenes o que no tengan un desarrollo fisiológico completo, pues esto ocasiona una disminución importante en su vida útil. Tampoco es aconsejable emplear animales longevos, pues muchos de ellos a cierta edad ya han perdido parte de su capacidad reproductiva.
 
         .tarjeta.p-4.mb-3(style="background-color:#DBF9BD")
           .row.justify-content-center.align-items-center
@@ -234,37 +234,37 @@
     .row.justify-content-center 
       .col-md-10.desktop
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema3/12.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/12.svg', alt='En la figura se indican algunas manifestaciones de comportamiento de las hembras durante la aparición del celo.')
     .row.justify-content-center 
       .col-md-10.movil
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema3/13.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/13.svg', alt='En la figura se indican algunas manifestaciones de comportamiento de las hembras durante la aparición del celo.')
 
     p.mb-5.mt-5(data-aos="fade-left") Además de los signos que pueden indicar que la hembra está en celo, es común la utilización de algunos métodos para la detección los cuales se basan en el comportamiento de los animales y en su propia biología. Dentro de los métodos más comunes están los siguientes:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.p-4(style="background-color:#DBF9BD")
+      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/14.svg' alt='AvatarTop')
         h2.text-center Toros calentadores
         p.text-center Para esto se utilizan machos a los cuales quirúrgicamente se les ha quitado la habilidad de reproducirse (desviación de pene o vasectomía). Estos machos tienen la función de marcar a las hembras del hato que se encuentren en calor.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD")
+      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/15.svg' alt='AvatarTop')
         h2.text-center Hembras androgenizadas
         p.text-center Son hembras con características masculinas las cuales carecen de valor comercial para la reproducción. Estas hembras se tratan con hormonas (testosterona) para cumplir la función de marcadoras dentro del hato con la ayuda de un chimball.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD")
+      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/16.svg' alt='AvatarTop')
         h2.text-center Valla receladora
         p.text-center Se utiliza principalmente en yeguas. Consiste en una valla que separa a la hembra del macho pero les permite estar en contacto. La yegua en celo manifiesta receptividad hacia el macho.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD")
+      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/17.svg' alt='AvatarTop')
@@ -348,102 +348,104 @@
     p(data-aos="fade-left") Este método es ampliamente utilizado en explotaciones porcícolas, bovinas, equinas y caprinas, entre otras, en las cuales ha dejado excelentes resultados. Dentro de las principales ventajas que tiene están las siguientes:
     
     .tarjeta.p-4.mb-5(style="background-color:#DBF9BD")
-      LineaTiempoC.color-acento-contenido(text-small)
-        .row.justify-content-center.align-items-center(titulo="1")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/21.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Reducción en el riesgo de trasmisión de enfermedades de trasmisión sexual.
-        .row.justify-content-center.align-items-center(titulo="2")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/22.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Se logra una rápida trasmisión de las características deseadas de padres a hijos.
-        .row.justify-content-center.align-items-center(titulo="3")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/23.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Se evita el desgaste físico de los verracos (en el caso de los cerdos) al disminuir sus desplazamientos.
-        .row.justify-content-center.align-items-center(titulo="4")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/24.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Se reducen los riesgos de daños o lesiones a los animales durante la monta natural.
-        .row.justify-content-center.align-items-center(titulo="5")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/25.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Se mejora la calidad de los ejemplares en la unidad productiva al asegurar el alto valor genético de los reproductores.
-        .row.justify-content-center.align-items-center(titulo="6")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/26.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Mejora la uniformidad de los animales que se producen en la granja.
-        .row.justify-content-center.align-items-center(titulo="7")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/27.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Reduce el consumo de forraje y facilita el manejo de la unidad productiva al excluir a los toros del proceso.
-        .row.justify-content-center.align-items-center(titulo="8")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/28.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Facilita el diligenciamiento de registros y la trazabilidad de las actividades de reproducción.
-        .row.justify-content-center.align-items-center(titulo="9")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/29.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Mejora el control de los parámetros reproductivos.
+      .col-12
+        LineaTiempoC.color-acento-contenido(text-small)
+          .row.justify-content-center.align-items-center(titulo="1")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/21.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Reducción en el riesgo de trasmisión de enfermedades de trasmisión sexual.
+          .row.justify-content-center.align-items-center(titulo="2")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/22.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Se logra una rápida trasmisión de las características deseadas de padres a hijos.
+          .row.justify-content-center.align-items-center(titulo="3")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/23.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Se evita el desgaste físico de los verracos (en el caso de los cerdos) al disminuir sus desplazamientos.
+          .row.justify-content-center.align-items-center(titulo="4")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/24.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Se reducen los riesgos de daños o lesiones a los animales durante la monta natural.
+          .row.justify-content-center.align-items-center(titulo="5")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/25.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Se mejora la calidad de los ejemplares en la unidad productiva al asegurar el alto valor genético de los reproductores.
+          .row.justify-content-center.align-items-center(titulo="6")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/26.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Mejora la uniformidad de los animales que se producen en la granja.
+          .row.justify-content-center.align-items-center(titulo="7")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/27.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Reduce el consumo de forraje y facilita el manejo de la unidad productiva al excluir a los toros del proceso.
+          .row.justify-content-center.align-items-center(titulo="8")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/28.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Facilita el diligenciamiento de registros y la trazabilidad de las actividades de reproducción.
+          .row.justify-content-center.align-items-center(titulo="9")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/29.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Mejora el control de los parámetros reproductivos.
     
     p.mb-5(data-aos="fade-left") Al igual que ocurre con otros sistemas reproductivos, la inseminación artificial tiene desventajas, las cuales limitan su implementación en todas las unidades productivas:
 
     .tarjeta.p-4.mb-5(style="background-color:#DBF9BD")
-      LineaTiempoC.color-acento-contenido(text-small)
-        .row.justify-content-center.align-items-center(titulo="1")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/30.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p La tasa de preñez es menor que la de los procesos de monta natural.
-        .row.justify-content-center.align-items-center(titulo="2")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/31.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Implica mayor inversión en capacitación del personal para la realización de los procesos.
-        .row.justify-content-center.align-items-center(titulo="3")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/32.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Requiere de instalaciones apropiadas para el desarrollo de las labores. 
-        .row.justify-content-center.align-items-center(titulo="4")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/33.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Es una tarea delicada que puede tornarse compleja en entornos difíciles.
-        .row.justify-content-center.align-items-center(titulo="5")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/34.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Exige mayor seguimiento a los celos de las hembras para identificar el momento preciso en el que se realizará la inseminación. 
-        .row.justify-content-center.align-items-center(titulo="6")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/tema3/35.svg', alt='Texto que describa la imagen')
-          .col-md-6.mb-4.mb-md-0
-            p Su empleo en regiones donde sea complejo garantizar las condiciones de frío limita su uso.
+      .col-12
+        LineaTiempoC.color-acento-contenido(text-small)
+          .row.justify-content-center.align-items-center(titulo="1")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/30.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p La tasa de preñez es menor que la de los procesos de monta natural.
+          .row.justify-content-center.align-items-center(titulo="2")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/31.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Implica mayor inversión en capacitación del personal para la realización de los procesos.
+          .row.justify-content-center.align-items-center(titulo="3")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/32.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Requiere de instalaciones apropiadas para el desarrollo de las labores. 
+          .row.justify-content-center.align-items-center(titulo="4")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/33.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Es una tarea delicada que puede tornarse compleja en entornos difíciles.
+          .row.justify-content-center.align-items-center(titulo="5")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/34.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Exige mayor seguimiento a los celos de las hembras para identificar el momento preciso en el que se realizará la inseminación. 
+          .row.justify-content-center.align-items-center(titulo="6")
+            .col-md-1.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/35.svg', alt='Texto que describa la imagen')
+            .col-md-6.mb-4.mb-md-0
+              p Su empleo en regiones donde sea complejo garantizar las condiciones de frío limita su uso.
 
 </template>
 

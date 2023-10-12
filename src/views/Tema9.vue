@@ -6,11 +6,11 @@
       .titulo-principal__numero
         span 9
       h1 Registros y Documentación
-    .row.justify-content-center.align-items-center 
+    .row.justify-content-center.align-items-center
       .col-md-4.mb-3
         figure(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema9/1.png', alt='Texto que describa la imagen')
-      .col-md-8.mb-3
+          img(src='@/assets/curso/temas/tema9/1.png', alt='Imagen decorativa')
+      .col-md-8
         p(data-aos="fade-left") En las empresas pecuarias modernas el manejo de los registros y la documentación se han convertido en pieza clave de todos los procesos de gestión administrativa. Igualmente, los avances tecnológicos en lo relacionado con el almacenamiento de información y la sistematización de los procesos han sido fundamentales para el desarrollo de unidades productivas más eficientes y con mayores facilidades para la toma de decisiones.
         p(data-aos="fade-left") La función principal de los registros es entregar información vital al administrador sobre la producción de los animales, sus características, su crecimiento, el consumo de alimento y demás parámetros productivos, con lo cual es posible tomar decisiones respecto al manejo de la explotación.
 
@@ -18,10 +18,10 @@
       .col-10
         .cajon.p-4.mb-3(style="background-color:#FFFAD0")
           .row.justify-content-center.align-items-center 
-            .col-md-2.mb-3
+            .col-sm-2.mb-3
               figure(data-aos="fade-right")
-                img(src='@/assets/curso/temas/tema9/2.svg', alt='Texto que describa la imagen')
-            .col-md-8.mb-3
+                img(src='@/assets/curso/temas/tema9/2.svg', alt='Imagen decorativa')
+            .col-sm-10.mb-3
               p(data-aos="fade-left") En cuanto a la documentación de la unidad productiva es importante señalar que esta hace referencia a los documentos necesarios para que la unidad productiva pueda funcionar cumpliendo con los requisitos normativos. Dentro de estos documentos están los documentos del predio, los planos de las instalaciones, los protocolos de las diferentes labores, fichas técnicas de maquinaria y equipos, certificaciones y permisos, documentos del personal, registros y archivo general de la empresa.
     
     separador 
@@ -32,9 +32,9 @@
     TabsC.color-primario
       .py-3.py-md-4(titulo="Parámetros productivos")
         .row.justify-content-center.align-items-center
-          .col-md-3.offset-1
+          .col-md-2.offset-1.mb-3
             figure
-              img(src='@/assets/curso/temas/tema9/3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema9/3.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
             h4 Parámetros productivos
             <li>Registros de producción</li>
@@ -45,9 +45,9 @@
 
       .py-3.py-md-4(titulo="Infraestructura")
         .row.justify-content-center.align-items-center
-          .col-md-3.offset-1
+          .col-md-2.offset-1.mb-3
             figure
-              img(src='@/assets/curso/temas/tema9/4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema9/4.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
             h4 Infraestructura
             <li>Áreas disponibles</li>
@@ -59,9 +59,9 @@
 
       .py-3.py-md-4(titulo="Labores")
         .row.justify-content-center.align-items-center
-          .col-md-3.offset-1
+          .col-md-2.offset-1.mb-3
             figure
-              img(src='@/assets/curso/temas/tema9/5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema9/5.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
             h4 Labores
             <li>Fecha de labores</li>
@@ -73,9 +73,9 @@
 
       .py-3.py-md-4(titulo="Mantenimiento de maquinaria y equipos")
         .row.justify-content-center.align-items-center
-          .col-md-3.offset-1
+          .col-md-2.offset-1.mb-3
             figure
-              img(src='@/assets/curso/temas/tema9/6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema9/6.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
             h4 Mantenimiento de maquinaria y equipos
             <li>Fichas técnicas de equipos</li>
@@ -86,9 +86,9 @@
 
       .py-3.py-md-4(titulo="Inventarios")
         .row.justify-content-center.align-items-center
-          .col-md-3.offset-1
+          .col-md-2.offset-1
             figure
-              img(src='@/assets/curso/temas/tema9/7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema9/7.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
             h4 Inventarios
             <li>Inventario de animales</li>
@@ -107,7 +107,7 @@
           p #[b Qué se va a registrar]: tener claridad sobre los datos que se quieren registrar, qué parámetros se van a medir y cómo pueden ser de utilidad para la administración de la unidad productiva.
       .col-md-4.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#DBF9BD; height:100%")
-          p #[b Para qué se va a emplear la información] : en muchas unidades productivas se registran altos volúmenes de información que posteriormente no tienen una utilidad aparente. Por esta razón es importante definir el destino de esos datos antes de proceder con su captura.
+          p #[b Para qué se va a emplear la información]: en muchas unidades productivas se registran altos volúmenes de información que posteriormente no tienen una utilidad aparente. Por esta razón es importante definir el destino de esos datos antes de proceder con su captura.
       .col-md-4.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#DBF9BD; height:100%")
           p #[b Para qué se va a emplear la información]: en muchas unidades productivas se registran altos volúmenes de información que posteriormente no tienen una utilidad aparente. Por esta razón es importante definir el destino de esos datos antes de proceder con su captura. 
@@ -169,7 +169,7 @@
         <li>Establecer códigos para los elementos que se encuentren en el inventario y marcarlos debidamente.</li>
 
     .row.justify-content-center 
-      .col-6.mb-3
+      .col-10.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#F9FEF5; height:100%")
           .row.justify-content-center.align-items-center
             .col-md-4.mb-3
@@ -177,9 +177,9 @@
                 img(src='@/assets/curso/temas/tema9/12.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-3
               h4 Inventario de materias primas e insumos
-              p La información relacionada con este tipo de productos dentro de la unidad productiva. Además de las cantidades y la descripción es importante señalar las fechas de vencimiento o caducidad de los productos.
+              p La información relacionada con este tipo de productos dentro de la unidad productiva. Además de las cantidades y la descripción, es importante señalar las fechas de vencimiento o caducidad de los productos.
 
-      .col-6.mb-3
+      .col-10.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#F9FEF5; height:100%")
           .row.justify-content-center.align-items-center
             .col-md-4.mb-3
@@ -190,7 +190,7 @@
               p Se debe señalar la edad de los animales, su sexo, raza, edad y peso. Igualmente, es importante tener datos adicionales sobre su procedencia y comportamiento productivo.
 
     .row.justify-content-center 
-      .col-6.mb-3
+      .col-10.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#F9FEF5; height:100%")
           .row.justify-content-center.align-items-center
             .col-md-4.mb-3
@@ -200,7 +200,7 @@
               h4 Inventario de coberturas del suelo
               p Identificar el número de potreros de la unidad productiva y establecer las especies vegetales que allí se encuentran. Se puede combinar con aforos para medir la disponibilidad de alimento para los animales en pastoreo.
 
-      .col-6.mb-3
+      .col-10.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#F9FEF5; height:100%")
           .row.justify-content-center.align-items-center
             .col-md-4.mb-3
@@ -211,7 +211,7 @@
               p Establecer qué tipo de herramientas se tienen en la unidad productiva, su estado y su disponibilidad. En el caso de los equipos también se debe registrar en el inventario si cuentan o no con accesorios y manuales de operación.
 
     .row.justify-content-center 
-      .col-6.mb-3
+      .col-10.mb-3
         .tarjeta.p-4.mb-3(style="background-color:#F9FEF5; height:100%")
           .row.justify-content-center.align-items-center
             .col-md-4.mb-3
@@ -229,17 +229,17 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema9/17.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Una lista de chequeo es un mecanismo de control que funciona muy bien para verificar que se han cumplido cada uno de los pasos de un proceso o de una actividad en particular. Estas listas de chequeo se emplean regularmente para evitar errores en la realización de tareas que son repetitivas y que requieren del desarrollo de acciones paso a paso de manera secuencial. Igualmente, tienen una excelente aplicabilidad en procesos de monitoreo, seguimiento o auditoría ya que permiten verificar uno a uno los ítems a evaluar.
+        p.mb-0 Una lista de chequeo es un mecanismo de control que funciona muy bien para verificar que se han cumplido cada uno de los pasos de un proceso o de una actividad en particular. Estas listas de chequeo se emplean regularmente para evitar errores en la realización de tareas que son repetitivas y que requieren del desarrollo de acciones paso a paso de manera secuencial. Igualmente, tienen una excelente aplicabilidad en procesos de monitoreo, seguimiento o auditoría, ya que permiten verificar uno a uno los ítems a evaluar.
           br
           br
           | Al igual que los demás formatos que se emplean con frecuencia en la unidad productiva, estas listas llevan un encabezado en el que se recoge información como la fecha de diligenciamiento, la ubicación, el nombre del predio, los datos de la unidad productiva y el propósito de la verificación. Un ejemplo clásico de este tipo de documento es el que presenta el Instituto Colombiano Agropecuario denominado #[b “Lista de chequeo para predios productores de porcinos con destino al sacrificio”].
 
-    p(data-aos="fade-left") A diferencia de otro tipo de formatos, las listas de chequeo solo permiten respuestas cortas como “sí”, “no” o “cumple”, “no cumple” ya que se emplean principalmente para procesos de evaluación o verificación. 
+    p(data-aos="fade-left") A diferencia de otro tipo de formatos, las listas de chequeo solo permiten respuestas cortas como “sí”, “no” o “cumple”, “no cumple”, ya que se emplean principalmente para procesos de evaluación o verificación. 
 
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_9_5 9.5 Técnica de diligenciamiento
-    p.mb-5(data-aos="fade-left") Aparentemente el diligenciamiento de una lista de chequeo es una tarea sencilla ya que este es un formato que contiene preguntas concretas que dan cuenta de la realización de determinados procesos o actividades. Sin embargo, a pesar de su sencillez, su diligenciamiento conlleva una gran responsabilidad debido a que a menudo estas son empleadas para la verificación del cumplimiento de tareas que resultan esenciales para la unidad productiva.
+    p.mb-5(data-aos="fade-left") Aparentemente el diligenciamiento de una lista de chequeo es una tarea sencilla, ya que este es un formato que contiene preguntas concretas que dan cuenta de la realización de determinados procesos o actividades. Sin embargo, a pesar de su sencillez, su diligenciamiento conlleva una gran responsabilidad debido a que a menudo estas son empleadas para la verificación del cumplimiento de tareas que resultan esenciales para la unidad productiva.
     .row.justify-content-center.align-items-center 
       .col-md-4.mb-3
         figure
@@ -254,7 +254,7 @@
           <li>No saltarse alguno de los pasos o las preguntas de la lista de verificación.</li>
           <li>Ante alguna duda en la comprobación de algún criterio solicitar una segunda opinión.</li>
 
-    p.mt-5(data-aos="fade-left") En procesos como el montaje o instalación de equipos las listas de comprobación se convierten en herramientas que salvan vidas y evitan altos costos por daños en los implementos. Algunos de los protocolos al interior de la unidad productiva se basan en listas de comprobación puesto que evitan recurrir a la memoria humana la cual, en ocasiones, no es confiable.
+    p.mt-5(data-aos="fade-left") En procesos como el montaje o instalación de equipos las listas de comprobación se convierten en herramientas que salvan vidas y evitan altos costos por daños en los implementos. Algunos de los protocolos al interior de la unidad productiva se basan en listas de comprobación, puesto que evitan recurrir a la memoria humana la cual, en ocasiones, no es confiable.
 
 </template>
 

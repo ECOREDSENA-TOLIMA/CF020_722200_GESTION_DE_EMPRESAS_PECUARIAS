@@ -63,10 +63,10 @@
       .col-10
         .tarjeta.p-4.mb-3(style="background-color:#FFFAD0")
           .row.justify-content-center.align-items-center
-            .col-md-1.mb-3
+            .col-sm-2.mb-3
               figure
                 img(src='@/assets/curso/temas/tema5/7.svg', alt='')
-            .col-md-11.mb-0
+            .col-sm-10.mb-0
               p(data-aos="fade-left") Es importante que al interior de la unidad productiva se cuente con espacios suficientes para que el personal de la empresa disponga apropiadamente de los residuos sólidos y realice la selección en la fuente.
 
     separador 
@@ -84,7 +84,7 @@
         p Para el manejo de estos elementos solamente basta con hacer la separación en la fuente, teniendo cuidado de evitar su contaminación con sustancias tóxicas o que puedan significar algún riesgo para el personal, como residuos de agroquímicos, fluidos corporales o restos de animales.
       .tarjeta.color-acento-botones.p-3(x="66%" y="18.1%" numero="")
         .h5.mb-2 Residuos no reciclables
-        p Estos tienen un cierto grado de peligrosidad, como en el caso de las bombillas, ya que algunos de sus componentes son altamente contaminantes o tóxicos. En este caso, es recomendable hacer una disposición parcial la cual consiste en separar estos elementos, almacenarlos en recipientes que eviten que las sustancias entren en contacto con el agua o el suelo y entregarlos a una empresa de aseo que cuente con la idoneidad necesaria para hacer la disposición final por cualquiera de los métodos disponibles.
+        p Estos tienen un cierto grado de peligrosidad, como en el caso de las bombillas, ya que algunos de sus componentes son altamente contaminantes o tóxicos. En este caso, es recomendable hacer una disposición parcial, la cual consiste en separar estos elementos, almacenarlos en recipientes que eviten que las sustancias entren en contacto con el agua o el suelo y entregarlos a una empresa de aseo que cuente con la idoneidad necesaria para hacer la disposición final por cualquiera de los métodos disponibles.
       .tarjeta.color-acento-botones.p-3(x="30.7%" y="61.2%" numero="")
         .h5.mb-2 Residuos orgánicos
         p Estos elementos son los más comunes dentro de las explotaciones pecuarias y corresponden a elementos que alguna vez tuvieron vida, bien sea plantas o animales. Una de las formas más eficientes de disponer de estos residuos es el compostaje o la producción de lombricultivo, ya que estos métodos permiten la degradación de estas sustancias de una forma controlada para posteriormente incorporarlas en forma de abono orgánico. En las explotaciones pecuarias, merece especial atención el manejo y disposición de mortalidades y desechos anatomopatológicos.

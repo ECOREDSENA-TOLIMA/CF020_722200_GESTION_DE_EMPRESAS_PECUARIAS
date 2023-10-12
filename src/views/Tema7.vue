@@ -21,7 +21,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema7/5.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema7/5.jpg', alt='Imagen decorativa')
           
         h2.text-center Acciones preventivas
         p Para la implementación de un plan de mejora, es posible desarrollar tanto acciones preventivas como acciones correctivas. Las acciones preventivas se basan en la identificación y previsión de situaciones que se puedan llegar a presentar en la unidad pecuaria, por ejemplo, la instalación de cercos perimetrales para evitar el ingreso de personas y animales ajenos a la explotación. Con ellas se está realizando una adecuada gestión del riesgo y se están tomando las medidas correspondientes para mitigarlo.
@@ -30,7 +30,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/temas/tema7/6.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema7/6.jpg', alt='Imagen decorativa')
           
         h2.text-center Acciones correctivas
         p Las acciones correctivas, a diferencia de las preventivas, buscan revertir determinada situación y eliminar el riesgo asociado, por ejemplo, cambiar la dieta de los animales o incluir un nuevo protocolo de limpieza y desinfección para un área específica en la que se han detectado problemas de contaminación. Las medidas correctivas son también elementos válidos en los procesos de mejoramiento continuo y generalmente contribuyen a generar cambios positivos en el sistema productivo. Si bien estas acciones provienen de procesos de evaluación y verificación realizados previamente, las acciones preventivas y correctivas deben ser nuevamente evaluadas a fin de revisar su efectividad y determinar si requieren de un nuevo ajuste. 
@@ -61,7 +61,7 @@ export default {
         ano: 'Verificar',
         titulo: '',
         texto:
-          'En esta fase se lleva a cabo la comprobación de los avances en el proceso de implementación del proyecto. Se utilizan indicadores para analizar las situaciones y tomar las medidas correspondientes basados en información veraz y confiable. Como producto de esta etapa se genera un plan de mejoramiento el cual debe ser implementado para corregir las fallas detectadas.',
+          'En esta fase se lleva a cabo la comprobación de los avances en el proceso de implementación del proyecto. Se utilizan indicadores para analizar las situaciones y tomar las medidas correspondientes basadas en información veraz y confiable. Como producto de esta etapa se genera un plan de mejoramiento el cual debe ser implementado para corregir las fallas detectadas.',
       },
       {
         ano: 'Actuar',

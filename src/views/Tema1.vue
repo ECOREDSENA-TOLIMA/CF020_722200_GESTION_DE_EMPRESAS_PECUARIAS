@@ -26,7 +26,7 @@
         p(data-aos="fade-left") Indistintamente del tipo de explotación pecuaria y de la especie animal, es importante mantener las medidas de bioseguridad.
         .cajon.p-4.mb-3(style="background-color:#E7EAE4")(data-aos="flip-up")
           p Según el Instituto Colombiano Agropecuario (ICA) consiste en el conjunto de medidas para evitar, evaluar, prevenir, mitigar, manejar y/o controlar los posibles riesgos sanitarios y sus efectos directos o indirectos en la salud humana, el medio ambiente, la biodiversidad, la productividad y producción agropecuaria.
-        p(data-aos="fade-left") Una granja biosegura es aquella en la que existe un plan para contrarrestar las amenazas ligadas a los problemas que puedan afectar la salud de los animales, del personal y del entorno natural en el que se desarrolla la actividad productiva por lo que es un elemento clave dentro del plan sanitario preventivo.
+        p(data-aos="fade-left") Una granja biosegura es aquella en la que existe un plan para contrarrestar las amenazas ligadas a los problemas que puedan afectar la salud de los animales, del personal y del entorno natural en el que se desarrolla la actividad productiva, por lo que es un elemento clave dentro del plan sanitario preventivo.
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_1_2 1.2 Protocolos
@@ -39,49 +39,49 @@
       
     .row.justify-content-center.mt-5 
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/3.svg' alt='AvatarTop')
           h2.text-center Encabezado
           p.text-center Se define nombre del protocolo, fecha de elaboración y responsables de elaboración, revisión y aprobación.
 
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/4.svg' alt='AvatarTop')
           h2.text-center Objeto
           p.text-center Se expresa cuál es el fin del protocolo, es decir, qué se pretende con su implementación.
 
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/5.svg' alt='AvatarTop')
           h2.text-center Alcance
           p.text-center Se delimita la escala de aplicación del protocolo: si aplica en un área de la empresa, en toda la empresa o un área geográfica definida.
 
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/6.svg' alt='AvatarTop')
           h2.text-center Definiciones
           p.text-center Debe contener un glosario con los términos que requieran una explicación un poco más amplia.
 
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/7.svg' alt='AvatarTop')
           h2.text-center Condiciones generales
           p.text-center Son las disposiciones que se deben seguir para garantizar el cumplimiento del objeto del protocolo. Además, es necesario incluir en cada protocolo qué elementos se deben utilizar, cómo se usan y qué medidas de protección personal se requieren para desarrollar las tareas con seguridad.
 
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/8.svg' alt='AvatarTop')
           h2.text-center Contenido
           p.text-center Se desglosan paso a paso los procedimientos necesarios para cumplir el protocolo. Esto se hace de manera secuencial y detallada.
 
-        .tarjeta.p-4(style="background-color:#DBF9BD")
+        .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema1/9.svg' alt='AvatarTop')
@@ -132,7 +132,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_4 1.4 Limpieza y desinfección de instalaciones y equipos
 
-    P(data-aos="fade-left") Otro de los procesos que requiere especial atención dentro del plan sanitario preventivo es el de la limpieza y desinfección de las instalaciones y equipos. Cuando no se tiene especial cuidado en estos procesos se generan condiciones propicias para la propagación de agentes patógenos que pueden afectar el bienestar de los animales y las personas.
+    P(data-aos="fade-left") Otro de los procesos que requiere especial atención dentro del plan sanitario preventivo es el de la limpieza y desinfección de las instalaciones y equipos. Cuando no se tiene especial cuidado en estos procesos, se generan condiciones propicias para la propagación de agentes patógenos que pueden afectar el bienestar de los animales y las personas.
     p.mb-5(data-aos="fade-left") Como se aprecia continuación, para una correcta limpieza y desinfección de equipos es necesario tener en cuenta lo siguiente:
 
     .tarjeta.p-4.mb-5(style="background-color:#DBF9BD")
@@ -154,7 +154,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 Limpieza y desinfección
-            p Siempre la limpieza va antes de la desinfección pues muchas de las sustancias desinfectantes no son efectivas en ambientes con alto contenido de materia orgánica. Es importante elegir productos de limpieza acordes con las condiciones de cada área, equipo o utensilio.
+            p Siempre la limpieza va antes de la desinfección, pues muchas de las sustancias desinfectantes no son efectivas en ambientes con alto contenido de materia orgánica. Es importante elegir productos de limpieza acordes con las condiciones de cada área, equipo o utensilio.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/14.jpg', alt='Texto que describa la imagen')
@@ -175,7 +175,7 @@
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_1_5 1.5 Manual de bioseguridad
-    p(data-aos="fade-left") Todas las actividades relacionadas con la prevención, mitigación, manejo y/o control de enfermedades al interior de la unidad productiva pecuaria se deben especificar en un manual el cual generalmente se construye con base en la normatividad aplicable a cada sector productivo, bien sea avícola, porcícola o bovino.
+    p(data-aos="fade-left") Todas las actividades relacionadas con la prevención, mitigación, manejo y/o control de enfermedades al interior de la unidad productiva pecuaria se deben especificar en un manual, el cual generalmente se construye con base en la normatividad aplicable a cada sector productivo, bien sea avícola, porcícola o bovino.
     p.mb-5(data-aos="fade-left") Como se aprecia a continuación, en la construcción de un manual de bioseguridad es necesario incluir los siguientes aspectos.
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
@@ -208,7 +208,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_6 1.6 Productos de limpieza y desinfección
     p(data-aos="fade-left") Un buen proceso de limpieza y desinfección parte de la correcta elección de los productos empleados para estas labores, pues no todas las áreas, instalaciones o equipos se pueden tratar con los mismos elementos.
-    p.mb-5(data-aos="fade-left") De acuerdo con la resolución del #[b ICA 30292 de 2017] algunos de los productos que se emplean en la limpieza y desinfección en explotaciones avícolas para el manejo de problemas sanitarios son los siguientes:
+    p.mb-5(data-aos="fade-left") De acuerdo con la resolución del #[b ICA 30292 de 2017], algunos de los productos que se emplean en la limpieza y desinfección en explotaciones avícolas para el manejo de problemas sanitarios son los siguientes:
 
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Tabla 1

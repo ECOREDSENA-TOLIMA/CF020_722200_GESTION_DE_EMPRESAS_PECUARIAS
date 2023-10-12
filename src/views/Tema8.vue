@@ -23,7 +23,7 @@
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema8/2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema8/2.svg', alt='Imagen decorativa')
               
 
           .tarjeta.color-acento-botones.p-3(x="14.8%" y="31%" numero="")
@@ -31,7 +31,7 @@
             p Se pueden emplear reuniones, lluvias de ideas, encuestas o consultorías especializadas para lograr esta primera fase.
           .tarjeta.color-acento-botones.p-3(x="56.4%" y="39.2%" numero="")
             .h5.mb-2 Determinar qué tan crítico es el riesgo
-            p Asignar un valor numérico basados en la severidad del daño, la probabilidad de que ocurra y la posibilidad de detección.
+            p Asignar un valor numérico basadas en la severidad del daño, la probabilidad de que ocurra y la posibilidad de detección.
           .tarjeta.color-acento-botones.p-3(x="25.1%" y="56%" numero="")
             .h5.mb-2 Clasificar los riesgos
             p Se decide qué riesgos se pueden aceptar y qué riesgos definitivamente no.
@@ -41,7 +41,7 @@
     .row.justify-content-center 
       .col-md-10.movil
         figure
-          img(src='@/assets/curso/temas/tema8/3.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema8/3.svg', alt='Imagen decorativa')
 
     p.mt-5(data-aos="fade-left") De acuerdo con la Cámara de Comercio de Bogotá, un plan de contingencia, en el ámbito de los desastres naturales, permite prevenir y mitigar riesgos y atender los eventos con la suficiente eficacia, minimizando los daños a la comunidad y al ambiente. En el entorno productivo el plan de contingencia igualmente permite prever las situaciones que puedan poner en riesgo el sistema y generar los procedimientos necesarios para evitar que sus efectos sean catastróficos. 
     separador 
@@ -51,19 +51,19 @@
     p.mb-5(data-aos="fade-left") Los planes de contingencia se pueden enfocar en varias alternativas para hacer frente a los problemas potenciales dependiendo de la clasificación de los riesgos, los cuales se pueden:
 
     .row.justify-content-center 
-      .col-md-3.mb-3
+      .col-md-6.mb-3
         .tarjeta.p-4.mb-0(style="background-color:#FFFAD0; height:100%")
           h5.text-center Eliminar
           p Implica tomar medidas para evitar por completo la amenaza. Por ejemplo, ante el riesgo de inundación en una zona del predio se decide trasladar el alojamiento a un área elevada no inundable.
-      .col-md-3.mb-3
+      .col-md-6.mb-3
         .tarjeta.p-4.mb-0(style="background-color:#FFFAD0; height:100%")
           h5.text-center Mitigar su impacto
           p Implica desarrollar acciones para que en caso de que se presente la contingencia se puedan reducir los daños. Por ejemplo, en una zona inundable se pueden hacer construcciones elevadas para evitar daños a la infraestructura.
-      .col-md-3.mb-3
+      .col-md-6.mb-3
         .tarjeta.p-4.mb-0(style="background-color:#FFFAD0; height:100%")
           h5.text-center Tolerar
-          p Consiste en aceptar cierto nivel de riesgo teniendo en cuenta que de llegarse a presentar la situación los daños no serán de consideración para el sistema productivo o para la seguridad de los animales y los trabajadores. Por ejemplo, una falla en el suministro de energía eléctrica en una explotación de especies menores.
-      .col-md-3.mb-3
+          p Consiste en aceptar cierto nivel de riesgo teniendo en cuenta que de llegarse a presentar la situación, los daños no serán de consideración para el sistema productivo o para la seguridad de los animales y los trabajadores. Por ejemplo, una falla en el suministro de energía eléctrica en una explotación de especies menores.
+      .col-md-6.mb-3
         .tarjeta.p-4.mb-0(style="background-color:#FFFAD0; height:100%")
           h5.text-center Compartir
           p Consiste en un proceso mediante el cual se comparten o se transfieren los daños que pueda ocasionar el suceso con otra organización o empresa. Las empresas de seguros son un claro ejemplo de este tipo de manejo de contingencias.
@@ -79,25 +79,25 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Siempre debe partir de un buen análisis de riesgos, de ello depende su efectividad.
       
-        .col-md-3
+        .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema8/4.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/4.svg', alt='Imagen decorativa')
 
       .row.justify-content-center.align-items-center(titulo="Evaluar los riesgos")
         .col-md-8.mb-4.mb-md-0.offset-1
           p Conocer los riesgos de la unidad productiva en términos de su gravedad y la probabilidad de ocurrencia.
       
-        .col-md-3
+        .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema8/5.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/5.svg', alt='Imagen decorativa')
 
       .row.justify-content-center.align-items-center(titulo="Identificar riesgos importantes")
         .col-md-8.mb-4.mb-md-0.offset-1
           p Priorizar aquellos riesgos que tienen una alta gravedad y una alta probabilidad de ocurrencia.
       
-        .col-md-3
+        .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema8/6.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/6.svg', alt='Imagen decorativa')
 
       .row.justify-content-center.align-items-center(titulo="Establecer planes de contingencia para los mayores riesgos")
         .col-md-8.mb-4.mb-md-0.offset-1
@@ -105,7 +105,7 @@
       
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema8/7.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/7.svg', alt='Imagen decorativa')
 
       .row.justify-content-center.align-items-center(titulo="Validación")
         .col-md-8.mb-4.mb-md-0.offset-1
@@ -113,7 +113,7 @@
       
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema8/8.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/8.svg', alt='Imagen decorativa')
 
       .row.justify-content-center.align-items-center(titulo="Verificación y análisis")
         .col-md-8.mb-4.mb-md-0.offset-1
@@ -121,7 +121,7 @@
       
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/tema8/9.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema8/9.svg', alt='Imagen decorativa')
             
 
 </template>

@@ -371,13 +371,6 @@ export default {
       link: 'https://www.youtube.com/watch?v=fd5mo5Pr1pQ',
     },
     {
-      tema: 'Manejo y desactivación',
-      referencia:
-        'Corporación Campo Limpio (2021). Programa de manejo de envases vacíos. Video [YouTube]. ',
-      tipo: 'Página web',
-      link: 'https://campolimpio.org/#residuos',
-    },
-    {
       tema: 'Parámetros técnicos',
       referencia:
         'Itza Ortiz, M. (2020). Parámetros productivos en la avicultura. Bm Editores.',
