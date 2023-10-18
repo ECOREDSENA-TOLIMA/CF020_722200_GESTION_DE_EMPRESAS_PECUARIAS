@@ -256,7 +256,7 @@
         .row.justify-content-center.align-items-center
           .col-md-4.mb-2
             figure.mb-3(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema4/21.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema4/21.jpg', alt='Imagen decorativa')
           .col-md-8
             .cajon.p-3.mb-3(style="background-color:#FFFAD0")
               <li>Escaleras y pasamanos.</li>

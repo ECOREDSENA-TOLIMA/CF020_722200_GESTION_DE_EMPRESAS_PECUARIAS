@@ -142,9 +142,9 @@
               tr
                 <td rowspan="2">Facilidad del trabajo</td>
                 td Ordeñabilidad 
-                td Comportamiento
-              tr
                 td Velocidad de ordeño
+              tr
+                td Comportamiento
                 td 
               tr
                 td Longevidad
@@ -243,28 +243,28 @@
     p.mb-5.mt-5(data-aos="fade-left") Además de los signos que pueden indicar que la hembra está en celo, es común la utilización de algunos métodos para la detección los cuales se basan en el comportamiento de los animales y en su propia biología. Dentro de los métodos más comunes están los siguientes:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/14.svg' alt='AvatarTop')
         h2.text-center Toros calentadores
         p.text-center Para esto se utilizan machos a los cuales quirúrgicamente se les ha quitado la habilidad de reproducirse (desviación de pene o vasectomía). Estos machos tienen la función de marcar a las hembras del hato que se encuentren en calor.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/15.svg' alt='AvatarTop')
         h2.text-center Hembras androgenizadas
         p.text-center Son hembras con características masculinas las cuales carecen de valor comercial para la reproducción. Estas hembras se tratan con hormonas (testosterona) para cumplir la función de marcadoras dentro del hato con la ayuda de un chimball.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/16.svg' alt='AvatarTop')
         h2.text-center Valla receladora
         p.text-center Se utiliza principalmente en yeguas. Consiste en una valla que separa a la hembra del macho pero les permite estar en contacto. La yegua en celo manifiesta receptividad hacia el macho.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema3/17.svg' alt='AvatarTop')
@@ -305,7 +305,7 @@
 
     p.mb-5(data-aos="fade-left") En los procesos de monta dirigida es importante tener en cuenta lo siguiente:
 
-    .row.justify-content-center 
+    .row.justify-content-center
       .col-md-6
         .tarjeta.p-4.mb-3(style="background-color:#FFFAD0")
           ul.lista-ul--color.lista-ul--separador
@@ -350,55 +350,55 @@
     .tarjeta.p-4.mb-5(style="background-color:#DBF9BD")
       .col-12
         LineaTiempoC.color-acento-contenido(text-small)
-          .row.justify-content-center.align-items-center(titulo="1")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="1")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/21.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Reducción en el riesgo de trasmisión de enfermedades de trasmisión sexual.
-          .row.justify-content-center.align-items-center(titulo="2")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="2")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/22.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Se logra una rápida trasmisión de las características deseadas de padres a hijos.
-          .row.justify-content-center.align-items-center(titulo="3")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="3")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/23.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Se evita el desgaste físico de los verracos (en el caso de los cerdos) al disminuir sus desplazamientos.
-          .row.justify-content-center.align-items-center(titulo="4")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="4")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/24.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Se reducen los riesgos de daños o lesiones a los animales durante la monta natural.
-          .row.justify-content-center.align-items-center(titulo="5")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="5")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/25.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Se mejora la calidad de los ejemplares en la unidad productiva al asegurar el alto valor genético de los reproductores.
-          .row.justify-content-center.align-items-center(titulo="6")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="6")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/26.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Mejora la uniformidad de los animales que se producen en la granja.
-          .row.justify-content-center.align-items-center(titulo="7")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="7")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/27.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Reduce el consumo de forraje y facilita el manejo de la unidad productiva al excluir a los toros del proceso.
-          .row.justify-content-center.align-items-center(titulo="8")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="8")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/28.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Facilita el diligenciamiento de registros y la trazabilidad de las actividades de reproducción.
-          .row.justify-content-center.align-items-center(titulo="9")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="9")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/29.svg', alt='Texto que describa la imagen')
@@ -410,41 +410,41 @@
     .tarjeta.p-4.mb-5(style="background-color:#DBF9BD")
       .col-12
         LineaTiempoC.color-acento-contenido(text-small)
-          .row.justify-content-center.align-items-center(titulo="1")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="1")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/30.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p La tasa de preñez es menor que la de los procesos de monta natural.
-          .row.justify-content-center.align-items-center(titulo="2")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="2")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/31.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Implica mayor inversión en capacitación del personal para la realización de los procesos.
-          .row.justify-content-center.align-items-center(titulo="3")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="3")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/32.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Requiere de instalaciones apropiadas para el desarrollo de las labores. 
-          .row.justify-content-center.align-items-center(titulo="4")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="4")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/33.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Es una tarea delicada que puede tornarse compleja en entornos difíciles.
-          .row.justify-content-center.align-items-center(titulo="5")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="5")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/34.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Exige mayor seguimiento a los celos de las hembras para identificar el momento preciso en el que se realizará la inseminación. 
-          .row.justify-content-center.align-items-center(titulo="6")
+          .row.justify-content-center.align-items-center.col-ipad(titulo="6")
             .col-md-1.mb-3
               figure
                 img(src='@/assets/curso/temas/tema3/35.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+            .col-md-8.mb-4.mb-md-0
               p Su empleo en regiones donde sea complejo garantizar las condiciones de frío limita su uso.
 
 </template>
