@@ -63,7 +63,7 @@
       .col-10
         .tarjeta.p-4.mb-3(style="background-color:#FFFAD0")
           .row.justify-content-center.align-items-center
-            .col-sm-2.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema5/7.svg', alt='')
             .col-sm-10.mb-0

@@ -351,58 +351,58 @@
       .col-12
         LineaTiempoC.color-acento-contenido(text-small)
           .row.justify-content-center.align-items-center.col-ipad(titulo="1")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/21.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/21.svg',)
             .col-md-8.mb-4.mb-md-0
               p Reducción en el riesgo de trasmisión de enfermedades de trasmisión sexual.
           .row.justify-content-center.align-items-center.col-ipad(titulo="2")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/22.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/22.svg',)
             .col-md-8.mb-4.mb-md-0
               p Se logra una rápida trasmisión de las características deseadas de padres a hijos.
           .row.justify-content-center.align-items-center.col-ipad(titulo="3")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/23.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/23.svg',)
             .col-md-8.mb-4.mb-md-0
               p Se evita el desgaste físico de los verracos (en el caso de los cerdos) al disminuir sus desplazamientos.
           .row.justify-content-center.align-items-center.col-ipad(titulo="4")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/24.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/24.svg',)
             .col-md-8.mb-4.mb-md-0
               p Se reducen los riesgos de daños o lesiones a los animales durante la monta natural.
           .row.justify-content-center.align-items-center.col-ipad(titulo="5")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/25.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/25.svg',)
             .col-md-8.mb-4.mb-md-0
               p Se mejora la calidad de los ejemplares en la unidad productiva al asegurar el alto valor genético de los reproductores.
           .row.justify-content-center.align-items-center.col-ipad(titulo="6")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/26.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/26.svg',)
             .col-md-8.mb-4.mb-md-0
               p Mejora la uniformidad de los animales que se producen en la granja.
           .row.justify-content-center.align-items-center.col-ipad(titulo="7")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/27.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/27.svg',)
             .col-md-8.mb-4.mb-md-0
               p Reduce el consumo de forraje y facilita el manejo de la unidad productiva al excluir a los toros del proceso.
           .row.justify-content-center.align-items-center.col-ipad(titulo="8")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/28.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/28.svg',)
             .col-md-8.mb-4.mb-md-0
               p Facilita el diligenciamiento de registros y la trazabilidad de las actividades de reproducción.
           .row.justify-content-center.align-items-center.col-ipad(titulo="9")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema3/29.svg', alt='Texto que describa la imagen')
-            .col-md-6.mb-4.mb-md-0
+                img(src='@/assets/curso/temas/tema3/29.svg',)
+            .col-md-8.mb-4.mb-md-0
               p Mejora el control de los parámetros reproductivos.
     
     p.mb-5(data-aos="fade-left") Al igual que ocurre con otros sistemas reproductivos, la inseminación artificial tiene desventajas, las cuales limitan su implementación en todas las unidades productivas:
@@ -411,37 +411,37 @@
       .col-12
         LineaTiempoC.color-acento-contenido(text-small)
           .row.justify-content-center.align-items-center.col-ipad(titulo="1")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/30.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-4.mb-md-0
               p La tasa de preñez es menor que la de los procesos de monta natural.
           .row.justify-content-center.align-items-center.col-ipad(titulo="2")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/31.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-4.mb-md-0
               p Implica mayor inversión en capacitación del personal para la realización de los procesos.
           .row.justify-content-center.align-items-center.col-ipad(titulo="3")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/32.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-4.mb-md-0
               p Requiere de instalaciones apropiadas para el desarrollo de las labores. 
           .row.justify-content-center.align-items-center.col-ipad(titulo="4")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/33.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-4.mb-md-0
               p Es una tarea delicada que puede tornarse compleja en entornos difíciles.
           .row.justify-content-center.align-items-center.col-ipad(titulo="5")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/34.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-4.mb-md-0
               p Exige mayor seguimiento a los celos de las hembras para identificar el momento preciso en el que se realizará la inseminación. 
           .row.justify-content-center.align-items-center.col-ipad(titulo="6")
-            .col-md-1.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema3/35.svg', alt='Texto que describa la imagen')
             .col-md-8.mb-4.mb-md-0

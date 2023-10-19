@@ -79,7 +79,7 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Siempre debe partir de un buen análisis de riesgos, de ello depende su efectividad.
       
-        .col-md-2
+        .col-lg-1.col-md-2.mb-3.col-6
           figure
             img(src='@/assets/curso/temas/tema8/4.svg', alt='Imagen decorativa')
 
@@ -87,7 +87,7 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Conocer los riesgos de la unidad productiva en términos de su gravedad y la probabilidad de ocurrencia.
       
-        .col-md-2
+        .col-lg-1.col-md-2.mb-3.col-6
           figure
             img(src='@/assets/curso/temas/tema8/5.svg', alt='Imagen decorativa')
 
@@ -95,7 +95,7 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Priorizar aquellos riesgos que tienen una alta gravedad y una alta probabilidad de ocurrencia.
       
-        .col-md-2
+        .col-lg-1.col-md-2.mb-3.col-6
           figure
             img(src='@/assets/curso/temas/tema8/6.svg', alt='Imagen decorativa')
 
@@ -103,7 +103,7 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Definir planes de contingencia para cada riesgo con alta gravedad y alta probabilidad.
       
-        .col-md-2
+        .col-lg-1.col-md-2.mb-3.col-6
           figure
             img(src='@/assets/curso/temas/tema8/7.svg', alt='Imagen decorativa')
 
@@ -111,7 +111,7 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Socialización del plan al personal y directivos para su aprobación.
       
-        .col-md-2
+        .col-lg-1.col-md-2.mb-3.col-6
           figure
             img(src='@/assets/curso/temas/tema8/8.svg', alt='Imagen decorativa')
 
@@ -119,7 +119,7 @@
         .col-md-8.mb-4.mb-md-0.offset-1
           p Evaluación periódica de los planes para mantenerlos actualizados y vigentes.  
       
-        .col-md-2
+        .col-lg-1.col-md-2.mb-3.col-6
           figure
             img(src='@/assets/curso/temas/tema8/9.svg', alt='Imagen decorativa')
             

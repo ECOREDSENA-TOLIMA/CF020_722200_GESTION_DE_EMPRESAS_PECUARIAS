@@ -87,42 +87,42 @@
     p.mb-5(data-aos="fade-left") Para calcular los parámetros técnicos es muy importante tener en cuenta los siguientes factores:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-up")
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/8.svg' alt='AvatarTop')
         h2.text-center Registros
         p.text-center Llevar registros detallados de la unidad productiva.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/9.svg' alt='AvatarTop')
         h2.text-center Mediciones
         p.text-center Realizar mediciones periódicas de los parámetros seleccionados.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/10.svg' alt='AvatarTop')
         h2.text-center Muestras
         p.text-center Realización de actividades que promuevan el respeto y la utilización consciente de los recursos naturales y su cuidado para una futura disponibilidad de los mismos.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/11.svg' alt='AvatarTop')
         h2.text-center Variables
         p.text-center Identificar las variables que se ajustan al tipo de explotación pecuaria.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/12.svg' alt='AvatarTop')
         h2.text-center Periódicas
         p.text-center Realizar las mediciones en todas las épocas del año y en diferentes circunstancias.
 
-      .tarjeta.p-4(style="background-color:#DBF9BD; max-width:100%")
+      .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/13.svg' alt='AvatarTop')

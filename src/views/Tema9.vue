@@ -7,9 +7,9 @@
         span 9
       h1 Registros y Documentación
     .row.justify-content-center.align-items-center
-      .col-md-4.mb-3
-        figure(data-aos="fade-right")
-          img(src='@/assets/curso/temas/tema9/1.png', alt='Imagen decorativa')
+      //- .col-md-4.mb-3
+      //-   figure(data-aos="fade-right")
+      //-     img(src='@/assets/curso/temas/tema9/1.png', alt='Imagen decorativa')
       .col-md-8
         p(data-aos="fade-left") En las empresas pecuarias modernas el manejo de los registros y la documentación se han convertido en pieza clave de todos los procesos de gestión administrativa. Igualmente, los avances tecnológicos en lo relacionado con el almacenamiento de información y la sistematización de los procesos han sido fundamentales para el desarrollo de unidades productivas más eficientes y con mayores facilidades para la toma de decisiones.
         p(data-aos="fade-left") La función principal de los registros es entregar información vital al administrador sobre la producción de los animales, sus características, su crecimiento, el consumo de alimento y demás parámetros productivos, con lo cual es posible tomar decisiones respecto al manejo de la explotación.
@@ -18,7 +18,7 @@
       .col-10
         .cajon.p-4.mb-3(style="background-color:#FFFAD0")
           .row.justify-content-center.align-items-center 
-            .col-sm-2.mb-3
+            .col-lg-1.col-md-2.mb-3.col-6
               figure(data-aos="fade-right")
                 img(src='@/assets/curso/temas/tema9/2.svg', alt='Imagen decorativa')
             .col-sm-10.mb-3
@@ -32,7 +32,7 @@
     TabsC.color-primario
       .py-3.py-md-4(titulo="Parámetros productivos")
         .row.justify-content-center.align-items-center
-          .col-md-2.offset-1.mb-3
+          .col-lg-1.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/3.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -45,7 +45,7 @@
 
       .py-3.py-md-4(titulo="Infraestructura")
         .row.justify-content-center.align-items-center
-          .col-md-2.offset-1.mb-3
+          .col-lg-1.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/4.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -59,7 +59,7 @@
 
       .py-3.py-md-4(titulo="Labores")
         .row.justify-content-center.align-items-center
-          .col-md-2.offset-1.mb-3
+          .col-lg-1.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/5.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -73,7 +73,7 @@
 
       .py-3.py-md-4(titulo="Mantenimiento de maquinaria y equipos")
         .row.justify-content-center.align-items-center
-          .col-md-2.offset-1.mb-3
+          .col-lg-1.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/6.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -86,7 +86,7 @@
 
       .py-3.py-md-4(titulo="Inventarios")
         .row.justify-content-center.align-items-center
-          .col-md-2.offset-1
+          .col-lg-1.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/7.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
