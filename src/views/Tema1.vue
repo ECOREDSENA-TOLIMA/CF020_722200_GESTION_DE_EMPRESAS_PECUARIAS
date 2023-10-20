@@ -38,7 +38,7 @@
         p(data-aos="fade-left") En la explotación pecuaria es necesario tener protocolos para todas las tareas de tipo operativo, bien sean de limpieza y desinfección, control de plagas y vectores, alimentación, ingreso de animales, ordeño o de cualquier otro tipo, siempre y cuando contengan, por lo menos, los siguientes elementos que invitamos a conocer a continuación.
       
     .row.justify-content-center.mt-5 
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-up")
         .tarjeta.p-4.col-ipad(style="background-color:#DBF9BD")
           .row.justify-content-center.mb-3
             .col-8

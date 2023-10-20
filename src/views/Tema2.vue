@@ -66,9 +66,9 @@
           
           p.text-small(numero="4" titulo="Los recursos disponibles") En el caso de los bovinos y demás especies con las que puedan desarrollarse prácticas de pastoreo, es importante conocer la disponibilidad de forraje para así mismo saber cómo balancear las raciones y qué tipo de suplementos entregar para garantizar la nutrición de los animales.
 
-          p.text-small(numero="4" titulo="Las condiciones agroclimáticas") En sistemas productivos ubicados en zonas más frías, los animales requieren consumir mayores cantidades de alimento para mantener su temperatura corporal. Por el contrario, en explotaciones ubicadas en zonas más cálidas los animales tienden a demandar menos comida, por lo que este es un elemento que se debe tener en cuenta en el desarrollo del plan de alimentación.
+          p.text-small(numero="5" titulo="Las condiciones agroclimáticas") En sistemas productivos ubicados en zonas más frías, los animales requieren consumir mayores cantidades de alimento para mantener su temperatura corporal. Por el contrario, en explotaciones ubicadas en zonas más cálidas los animales tienden a demandar menos comida, por lo que este es un elemento que se debe tener en cuenta en el desarrollo del plan de alimentación.
 
-          p.text-small(numero="4" titulo="La infraestructura de la unidad productiva") En procesos de suplementación animal es importante contar con infraestructura apropiada para los procesos de alimentación, de manera que se garantice la calidad del producto y se asegure que este llegue a todos los individuos.
+          p.text-small(numero="6" titulo="La infraestructura de la unidad productiva") En procesos de suplementación animal es importante contar con infraestructura apropiada para los procesos de alimentación, de manera que se garantice la calidad del producto y se asegure que este llegue a todos los individuos.
 
       .col-md-5.mb-5.mb-md-0
         figure

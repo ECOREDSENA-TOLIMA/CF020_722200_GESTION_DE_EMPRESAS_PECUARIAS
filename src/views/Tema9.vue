@@ -32,7 +32,7 @@
     TabsC.color-primario
       .py-3.py-md-4(titulo="Parámetros productivos")
         .row.justify-content-center.align-items-center
-          .col-lg-1.col-md-2.mb-3.col-6
+          .col-lg-2.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/3.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -45,7 +45,7 @@
 
       .py-3.py-md-4(titulo="Infraestructura")
         .row.justify-content-center.align-items-center
-          .col-lg-1.col-md-2.mb-3.col-6
+          .col-lg-2.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/4.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -59,7 +59,7 @@
 
       .py-3.py-md-4(titulo="Labores")
         .row.justify-content-center.align-items-center
-          .col-lg-1.col-md-2.mb-3.col-6
+          .col-lg-2.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/5.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -73,7 +73,7 @@
 
       .py-3.py-md-4(titulo="Mantenimiento de maquinaria y equipos")
         .row.justify-content-center.align-items-center
-          .col-lg-1.col-md-2.mb-3.col-6
+          .col-lg-2.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/6.svg', alt='Imagen decorativa')
           .col-md-7.offset-1
@@ -86,7 +86,7 @@
 
       .py-3.py-md-4(titulo="Inventarios")
         .row.justify-content-center.align-items-center
-          .col-lg-1.col-md-2.mb-3.col-6
+          .col-lg-2.col-md-2.mb-3.col-6
             figure
               img(src='@/assets/curso/temas/tema9/7.svg', alt='Imagen decorativa')
           .col-md-7.offset-1

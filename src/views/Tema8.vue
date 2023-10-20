@@ -31,7 +31,7 @@
             p Se pueden emplear reuniones, lluvias de ideas, encuestas o consultorías especializadas para lograr esta primera fase.
           .tarjeta.color-acento-botones.p-3(x="56.4%" y="39.2%" numero="")
             .h5.mb-2 Determinar qué tan crítico es el riesgo
-            p Asignar un valor numérico basadas en la severidad del daño, la probabilidad de que ocurra y la posibilidad de detección.
+            p Asignar un valor numérico basado en la severidad del daño, la probabilidad de que ocurra y la posibilidad de detección.
           .tarjeta.color-acento-botones.p-3(x="25.1%" y="56%" numero="")
             .h5.mb-2 Clasificar los riesgos
             p Se decide qué riesgos se pueden aceptar y qué riesgos definitivamente no.
